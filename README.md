@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Anurag's GitHub stats](https://vercel.com/api/toolbar/link/github-readme-stats-alpha-jet-32.vercel.app?via=project-dashboard-alias-list&p=1&page=/)](https://github.com/ErnestoHof)
 
 <!-- [![willianrod's wakatime stats](https://vercel.com/api/toolbar/link/github-readme-stats-alpha-jet-32.vercel.app?via=project-dashboard-alias-list&p=1&page=/)](https://wakatime.com/@ErnestoHof) -->
 

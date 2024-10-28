@@ -3,7 +3,7 @@
 <details>
     <summary>:zap: Github Stats</summary>
 
-    <img align="left" alt="Ernesto's Github Stats" src="github-readme-stats-git-master-ernestohofs-projects.vercel.app/api?username=ErnestoHof&show_icons=true&hide_border=true" />
+    <!-- [![Ernesto's Wakatime Stats](htt[s://github-readme-stats-git-master-ernestohofs-projects.vercel.app/api/wakatime?username=ErnestoHof&theme=dracula&layout=compact&hide_border=true)](https://wakatime.com/@ErnestoHof) -->
     
 </details>
 

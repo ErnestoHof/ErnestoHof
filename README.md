@@ -2,6 +2,7 @@
 
 <details> 
   <summary>:zap: Github Stats</summary>
+  <br></br>
   <img align="left" alt="Ernesto's Github Stats" src="https://github-readme-stats-ernestohofs-projects.vercel.app/api?username=ErnestoHof&show_icons=true&hide_border=true&theme=dracula" />
 </details>
 

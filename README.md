@@ -1,6 +1,6 @@
 # Hi There 👋
 
-- 🚀 MSc. Aerospace Engineering student at the Delft University of Technology
+- 🚀 MSc. Aerospace Engineering student at the [Delft University of Technology](https://www.tudelft.nl/en/ae)
   
 - 💼 Software Engineer at [ParaPy](https://parapy.nl/)
 

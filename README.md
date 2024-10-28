@@ -3,7 +3,7 @@
 <details>
     <summary>:zap: Github Stats</summary>
 
-    <!-- [![Ernesto's Wakatime Stats](htt[s://github-readme-stats-git-master-ernestohofs-projects.vercel.app/api/wakatime?username=ErnestoHof&theme=dracula&layout=compact&hide_border=true)](https://wakatime.com/@ErnestoHof) -->
+    [![Ernesto's Wakatime Stats](htt[s://github-readme-stats-git-master-ernestohofs-projects.vercel.app/api/wakatime?username=ErnestoHof&theme=dracula&layout=compact&hide_border=true)](https://wakatime.com/@ErnestoHof)
     
 </details>
 

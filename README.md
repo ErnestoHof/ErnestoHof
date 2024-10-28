@@ -1,6 +1,9 @@
 # Hi There 👋
 
-<img align="left" alt="Ernesto's Github Stats" src="https://github-readme-stats-ernestohofs-projects.vercel.app/api?username=ErnestoHof&show_icons=true&hide_border=true" />
+<details> 
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="Ernesto's Github Stats" src="https://github-readme-stats-ernestohofs-projects.vercel.app/api?username=ErnestoHof&show_icons=true&hide_border=true" />
+</details>
 
 <!--
 **ErnestoHof/ErnestoHof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

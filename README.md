@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<!-- [![willianrod's wakatime stats](https://vercel.com/api/toolbar/link/github-readme-stats-alpha-jet-32.vercel.app?via=project-dashboard-alias-list&p=1&page=/)](https://wakatime.com/@ErnestoHof) -->
+
 <!--
 **ErnestoHof/ErnestoHof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

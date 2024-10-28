@@ -1,12 +1,5 @@
 # Hi There 👋
 
-<details>
-    <summary>:zap: Github Stats</summary>
-
-    [![Ernesto's Wakatime Stats](htt[s://github-readme-stats-git-master-ernestohofs-projects.vercel.app/api/wakatime?username=ErnestoHof&theme=dracula&layout=compact&hide_border=true)](https://wakatime.com/@ErnestoHof)
-    
-</details>
-
 <!--
 **ErnestoHof/ErnestoHof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

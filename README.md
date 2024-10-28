@@ -1,5 +1,8 @@
 # Hi There 👋
 
+| <a href="https://github.com/ErnestoHof/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ErnestoHof&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ernesto's Github Stats" /></a> | <a href="https://github.com/ErnestoHof/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoHof&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <details> 
   <summary>:zap: Github Stats</summary>
   <br></br>
